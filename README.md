@@ -6,18 +6,18 @@ Herramientas basicas para todo sistema.
 
 - [CPUID](/programa/info.md)
 ## 2.- Testeo disco
-![CPUID](/Imagenes/.jpg)
+![](/Imagenes/.jpg)
 
-- [CPUID](/programa/testeo.md)
+- [](/programa/testeo.md)
 ## 3.- Recuperación de datos
-![CPUID](/Imagenes/.jpg)
+![](/Imagenes/.jpg)
 
-- [CPUID](/programa/recuperacion.md)
+- [](/programa/recuperacion.md)
 ## 4.- Recuperación de contraseñas.
-![CPUID](/Imagenes/.jpg)
+![](/Imagenes/.jpg)
 
-- [CPUID](/programa/contraseña.md)
+- [](/programa/contraseña.md)
 ## 5.- LIBRE
-![CPUID](/Imagenes/.jpg)
+![](/Imagenes/.jpg)
 
-- [CPUID](/programa/libre1.md)
+- [](/programa/libre1.md)
