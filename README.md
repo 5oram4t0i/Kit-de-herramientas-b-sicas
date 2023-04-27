@@ -2,7 +2,7 @@
 Herramientas basicas para todo sistema.
 
 ## 1.- Información del sistema
-![CPUID](/Imagenes/.jpg)
+![CPUID](/Imagenes/CPUID.jpg)
 
 - [CPUID](/programa/info.md)
 ## 2.- Testeo disco
