@@ -14,10 +14,10 @@ Herramientas basicas para todo sistema.
 
 - [Andres](/programa/recuperacion.md)
 ## 4.- Recuperación de contraseñas.
-![Bitwarde](/Imagenes/.jpg)
+![Bitwarde](/Imagenes/Bitwarden.jpg)
 
 - [Bitwarden](/programa/contraseña.md)
 ## 5.- LIBRE
-![Andres](/Imagenes/Bitwarden.jpg)
+![Andres](/Imagenes/.jpg)
 
 - [Andres](/programa/libre1.md)
