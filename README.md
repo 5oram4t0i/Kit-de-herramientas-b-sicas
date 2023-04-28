@@ -6,7 +6,7 @@ Herramientas basicas para todo sistema.
 
 - [CPUID](/programa/info.md)
 ## 2.- Testeo disco
-![CrystalDiskInfo](/Imagenes/.jpg)
+![CrystalDiskInfo](/Imagenes/CrystalDiskInfo.jpeg)
 
 - [CrystalDiskInfo](/programa/testeo.md)
 ## 3.- Recuperación de datos
@@ -18,6 +18,6 @@ Herramientas basicas para todo sistema.
 
 - [Bitwarden](/programa/contraseña.md)
 ## 5.- LIBRE
-![Andres](/Imagenes/.jpg)
+![Andres](/Imagenes/Bitwarden.jpg)
 
 - [Andres](/programa/libre1.md)
