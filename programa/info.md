@@ -5,3 +5,6 @@ La compañia CPUID tiene a disposición de todo el mundo varios programas que mu
 CPU-Z Monitoriza el sistema al completo dando informacion de la CPU, GPU, RAM. Podemos ver las velocidades, hilos, memoria y algunas caracteristicas mas.
 
 El HWMONITOR nos da informacion de las temperaturas y ventiladores del equipo.
+
+Aqui un pequeño video informativo:
+[CPUID](https://youtu.be/M-qcU6hQ5n8)
