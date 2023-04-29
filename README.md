@@ -18,9 +18,9 @@ Herramientas basicas para todo sistema.
 
 - [Bitwarden](/programa/contraseña.md)
 ## 5.- LIBRE
-![Andres](/Imagenes/.jpg)
+![wireshark](/Imagenes/wireshark.jpeg)
 
-- [Andres](/programa/libre1.md)
+- [wireshark](/programa/libre1.md)
 
 ## Realizado por:
 - Jesús González Alba
