@@ -10,17 +10,17 @@ Herramientas basicas para todo sistema.
 
 - [CrystalDiskInfo](/programa/testeo.md)
 ## 3.- Recuperación de datos
-![Andres](/Imagenes/.jpg)
+![TestDisk](/Imagenes/TestDisk-logo.svg.png)
 
-- [Andres](/programa/recuperacion.md)
+- [Testdisk](/programa/recuperacion.md)
 ## 4.- Recuperación de contraseñas.
 ![Bitwarde](/Imagenes/bitwarden.png)
 
 - [Bitwarden](/programa/contraseña.md)
 ## 5.- LIBRE
-![Andres](/Imagenes/.jpg)
+![wireshark](/Imagenes/wireshark.jpeg)
 
-- [Andres](/programa/libre1.md)
+- [wireshark](/programa/libre1.md)
 
 ## Realizado por:
 - Jesús González Alba
