@@ -10,7 +10,7 @@ Herramientas basicas para todo sistema.
 
 - [CrystalDiskInfo](/programa/testeo.md)
 ## 3.- Recuperación de datos
-![Andres](/Imagenes/.jpg)
+![TestDisk](/Imagenes/TestDisk-logo.svg.png)
 
 - [Andres](/programa/recuperacion.md)
 ## 4.- Recuperación de contraseñas.
