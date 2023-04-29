@@ -7,3 +7,6 @@ Wireshark se puede utilizar para una variedad de propósitos, como la solución 
 Con Wireshark, puedes capturar y examinar el tráfico de red en tiempo real, o puedes abrir un archivo capturado previamente y analizar los datos sin conexión. También puedes aplicar varios filtros a los datos capturados para centrarte en paquetes específicos o tipos de tráfico, y puedes guardar los datos capturados o exportarlos en una variedad de formatos.
 
 Wireshark es una herramienta poderosa, pero requiere cierto conocimiento de protocolos de red y análisis de paquetes para usarla de manera efectiva. Se utiliza comúnmente por administradores de red, profesionales de seguridad y desarrolladores para solucionar problemas de red, identificar vulnerabilidades de seguridad y optimizar el rendimiento de la red.
+
+Aqui un pequeño video informativo:
+[Wireshark](https://youtu.be/JDI-vCuGvVc)
