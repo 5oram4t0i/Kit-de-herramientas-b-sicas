@@ -7,3 +7,6 @@ Testdisk es compatible con varios sistemas de archivos, como FAT, NTFS, exFAT, e
 Además de la recuperación de datos, Testdisk también puede ser utilizado para reparar el sector de arranque de un disco duro y para reconstruir la tabla de particiones dañada. Esto es especialmente útil en casos en los que la computadora no puede arrancar debido a un fallo del sistema o un error en la tabla de particiones.
 
 Testdisk es una herramienta poderosa y útil para cualquier persona que necesite recuperar datos o reparar un sistema dañado. Debido a que es de código abierto, está disponible de forma gratuita y puede ser modificado por cualquier persona que tenga conocimientos en programación.
+
+Aqui un pequeño video informativo:
+[Testdisk](https://youtu.be/ebc5nXDPAys)
